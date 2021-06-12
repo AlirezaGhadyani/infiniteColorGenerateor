@@ -1,2 +1,1 @@
-# ResturantMenu
 # infiniteColorGenerateor
